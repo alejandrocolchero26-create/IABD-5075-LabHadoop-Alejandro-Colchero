@@ -1,0 +1,12 @@
+﻿# Archivos binarios de datos
+*.dat
+
+# Archivos de registro
+*.log
+
+# Directorios temporales
+tmp/
+
+# Archivos auxiliares de sistemas operativos
+.DS_Store
+Thumbs.db
